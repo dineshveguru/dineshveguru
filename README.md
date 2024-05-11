@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 🌏! I am Dinesh 😎</h1>
 <p align="center"><i>I am an enthusiastic🤯, optimistic😺, dedicated💪 coder who loves to solve problems.</i></p>
-
+<a href="https://app.daily.dev/dex001"><img src="https://api.daily.dev/devcards/v2/Suaey04182INlKNNrvrDM.png?type=default&r=dn9" width="356" alt="Dex's Dev Card"/></a>
 ### You can download my Resume 📝 from here 👉 [Resume](https://github.com/dineshveguru/intern_openinapp/files/11567716/dinesh_resume1_compressed.pdf)
 
 <br>
