@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 🌏! I am Dinesh 😎</h1>
 <p align="center"><i>I am an enthusiastic🤯, optimistic😺, dedicated💪 coder who loves to solve problems.</i></p>
-### You can download my Resume 📝 from here 👉 [Resume](https://github.com/dineshveguru/intern_openinapp/files/11567716/dinesh_resume1_compressed.pdf)
+### You can download my Resume 📝 from here 👉 [Resume]([https://github.com/dineshveguru/intern_openinapp/files/11567716/dinesh_resume1_compressed.pdf](https://drive.google.com/file/d/1i0p-7MwGEQKX1u8SPUlqjtZa0jF2gaTO/view?usp=sharing))
 
 <br>
 <h2 align="center"><strong>My Tech Stack</strong></h2>
