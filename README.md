@@ -1,7 +1,5 @@
 <h1 align="center">Hello World 🌏! I am Dinesh 😎</h1>
 <p align="center"><i>I am an enthusiastic🤯, optimistic😺, dedicated💪 coder who loves to solve problems.</i></p>
-### You can download my Resume 📝 from here 👉 [Resume](https://drive.google.com/file/d/1i0p-7MwGEQKX1u8SPUlqjtZa0jF2gaTO/view?usp=sharing)
-
 <br>
 <h2 align="center"><strong>My Tech Stack</strong></h2>
 <br>
@@ -21,6 +19,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 <br>
 <h2 align="center">Machine Learning & AI</h2>
@@ -72,3 +71,4 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dineshveguru123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshveguru/)
+- **[Resume (PDF)](https://drive.google.com/file/d/1i0p-7MwGEQKX1u8SPUlqjtZa0jF2gaTO/view?usp=sharing)**  
